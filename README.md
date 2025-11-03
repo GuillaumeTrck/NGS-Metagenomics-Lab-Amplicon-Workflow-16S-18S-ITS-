@@ -2,6 +2,8 @@
 
 This repository documents a hands-on NGS lab project: from environmental sampling and amplicon library prep to Illumina MiSeq sequencing and downstream metagenomic analysis (QC, trimming, taxonomic classification, diversity indices, and result comparison across pipelines).
 
+This group project was carried out during my first year of a master's degree at the Haute école en Hainaut in 2023.
+
 ## Overview
 - Samples: environmental soil, river water, compost, and spoiled potato juice.
 - Targets: 16S (bacteria/archaea), 18S (eukaryotes), ITS (fungi).
