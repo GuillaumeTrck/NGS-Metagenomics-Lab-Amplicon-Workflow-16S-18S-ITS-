@@ -11,7 +11,7 @@ This group project was carried out during my first year of a master's degree at 
 - Deliverable: full illustrated report with methods, results, and appendices.
 
 ## Repository layout
-- `NGS_Report.pdf` — full report (methods, results, figures, appendices).
+- `Final report.pdf` — full report (methods, results, figures, appendices).
 
 ## Wet-lab summary
 - DNA extraction and cleanup adapted to matrix (soil, water, compost, potato), with mechanical and chemical lysis to remove inhibitors.
